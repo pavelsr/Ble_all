@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BLE Диспетчер</string>
+    <string name="settingpage_name">Настройки</string>
+    <string name="addpage_name">Добавить</string>
+    <string name="standardview_name">Standard View</string>
+    <string name="title_section3">Custom2</string>
+    <string name="title_section2">Custom1</string>
+    <string name="title_section1">Standard View</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="input_label">Вход</string>
+     <string name="send_label">Отправить</string>
+    <string name="output_Label">Выход</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_add">Добавить</string>
+    <string name="menu_disconnect">Отключить</string>
+	<string name="pulltorefresh_pullltorefresh_label">Нажмите чтобы обновить</string>
+	<string name="pulltorefresh_lasttimeupdate_label">Последнее обновление</string>
+	<string name="pulltorefresh_refreshing_label">Обновляем...</string>
+	<string name="pulltorefresh_releasetorefresh_label">Release to update</string>
+	<string name="pulltorefresh_lasttime_label">Last update time:</string>
+	<string name="label_no_devices">Устройства BLE не найдены</string>
+	<string name="bluetooth_not_enable">Bluetooth выключен</string>
+	<string name="tip_dialog_title">Tip</string>
+	<string name="ok_title">Ok</string>
+	<string name="version_name">1.1</string>
+</resources>
